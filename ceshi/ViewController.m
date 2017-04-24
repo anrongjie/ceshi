@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     [self.view setBackgroundColor:[UIColor greenColor]];
+    
+    [self.view setBackgroundColor:[UIColor redColor]];
 }
 
 - (void)didReceiveMemoryWarning {
